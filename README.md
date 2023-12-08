@@ -1,4 +1,10 @@
-### Hi there 👋
+# Welecome to My World👋
+
+![Alt text](https://miro.medium.com/v2/resize:fit:1400/1*HmtkzxNYchDkG3n9IIbCZg.png)
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dibyenduweb&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
