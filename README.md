@@ -1,16 +1,23 @@
-<p align="center">Welecome to My World👋</p>
+# Welcome to my World👋
+<!-- banner -->
+![Alt text](https://i.ibb.co/1Qqcrtw/Navy-And-White-Geometric-Technology-Linked-In-Banner.jpg)
 
-![Alt text](https://miro.medium.com/v2/resize:fit:1400/1*HmtkzxNYchDkG3n9IIbCZg.png)
+
+# About me
+
+I'm Dibyendu Pramanik, a jr.MERN stack developer on a journey to explore the realms of web development. Currently looking for internship to further enhance my skills and contribute to real-world projects.
+
+# 📫 How to reach me:
+[<img src="https://i.ibb.co/xLftJZP/Black-Elegant-Modern-Name-Initials-Monogram-Logo-1.png" alt="LinkedIn" width="200" height="50">](https://www.linkedin.com/in/dibyendupramanik/) 
+[<img src="https://i.ibb.co/2kn8BCn/Black-Elegant-Modern-Name-Initials-Monogram-Logo-2.png" alt="Gmail" width="200" height="50">](mailto:pramanik466@gmail.com)
+[<img src="https://i.ibb.co/7SNyMBR/Black-Elegant-Modern-Name-Initials-Monogram-Logo-3.png" alt="Facebook" width="200" height="50">](https://www.facebook.com/dibyendu.pramanik0)
+
+Let's connect and create something amazing together! 🚀
 
 
+
+# Streack
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dibyenduweb&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-## Reach out me
-
-<br />
-
-[<p><img height="75" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LinkedIn_logo.svg">](https://www.linkedin.com/in/dibyendupramanik/)
-<br />
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dibyenduweb&theme=dark)
 
@@ -18,6 +25,11 @@
 
 <!-- Last summury -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dibyenduweb&theme=dark)
+
+
+### 👯‍♂️ I'm looking to collaborate on:
+
+I'm open to collaborating on projects that involve MERN stack development or anything related to web development. If you have an exciting project or internship opportunity, feel free to reach out!
 <!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
