@@ -40,13 +40,14 @@ Let's connect and create something amazing together! 🚀
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dibyenduweb&theme=dark)
 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dibyenduweb&theme=apprentice)
 
 
 <!-- Last summury -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username={dibyenduweb}&theme={theme_name})
 
 <!-- stats -->
-[![Dibyendu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dibyenduweb&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/dibyenduweb)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dibyenduweb&theme=apprentice)
 
 
 
