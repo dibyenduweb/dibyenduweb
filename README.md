@@ -31,18 +31,27 @@ Let's connect and create something amazing together! 🚀
 
 
 
+
 # Streack
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dibyenduweb&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+
+<!-- Top language reo -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dibyenduweb&theme=dark)
 
 
 
+
 <!-- Last summury -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dibyenduweb&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username={dibyenduweb}&theme={theme_name})
+
+<!-- stats -->
+[![Dibyendu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dibyenduweb&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/dibyenduweb)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dibyenduweb&show_icons=true&theme=transparent)
+
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dibyenduweb&show_icons=true&theme=radical) -->
+
 
 
 ### 👯‍♂️ I'm looking to collaborate on:
