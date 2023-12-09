@@ -2,12 +2,27 @@
 <!-- banner -->
 ![Alt text](https://i.ibb.co/1Qqcrtw/Navy-And-White-Geometric-Technology-Linked-In-Banner.jpg)
 
+# 👩‍💻 Status:
+
+<!-- - 🚀 **[Working](#working):** Currently engaged in exciting projects!
+- 🌟 **[Busy](#busy):** Juggling multiple tasks, may have limited availability. -->
+- 🎓 **[Looking for Internship](#looking-for-internship):** Actively seeking internship opportunities.
+<!-- - 📚 **[Learning](#learning):** Expanding skills and diving into new technologies.
+- 📝 **[Markdown Enthusiast](#markdown-enthusiast):** Crafting beautiful documents with Markdown. -->
+
+
 
 # About me
 
 I'm Dibyendu Pramanik, a jr.MERN stack developer on a journey to explore the realms of web development. Currently looking for internship to further enhance my skills and contribute to real-world projects.
 
-# 📫 How to reach me:
+# Programming Languages I know
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,materialui,firebase,tailwind,react,nodejs,mongodb,c,bootstrap)](https://skillicons.dev)
+
+
+
+
+# 📫Reach me out Me :
 [<img src="https://i.ibb.co/xLftJZP/Black-Elegant-Modern-Name-Initials-Monogram-Logo-1.png" alt="LinkedIn" width="200" height="50">](https://www.linkedin.com/in/dibyendupramanik/) 
 [<img src="https://i.ibb.co/2kn8BCn/Black-Elegant-Modern-Name-Initials-Monogram-Logo-2.png" alt="Gmail" width="200" height="50">](mailto:pramanik466@gmail.com)
 [<img src="https://i.ibb.co/7SNyMBR/Black-Elegant-Modern-Name-Initials-Monogram-Logo-3.png" alt="Facebook" width="200" height="50">](https://www.facebook.com/dibyendu.pramanik0)
@@ -25,6 +40,9 @@ Let's connect and create something amazing together! 🚀
 
 <!-- Last summury -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dibyenduweb&theme=dark)
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dibyenduweb&show_icons=true&theme=transparent)
 
 
 ### 👯‍♂️ I'm looking to collaborate on:
