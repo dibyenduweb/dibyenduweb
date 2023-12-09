@@ -2,23 +2,13 @@
 <!-- banner -->
 ![Alt text](https://i.ibb.co/1Qqcrtw/Navy-And-White-Geometric-Technology-Linked-In-Banner.jpg)
 
-# 👩‍💻 Status:
-
-<!-- - 🚀 **[Working](#working):** Currently engaged in exciting projects!
-- 🌟 **[Busy](#busy):** Juggling multiple tasks, may have limited availability. -->
-- 🎓 **[Looking for Internship](#looking-for-internship):** Actively seeking internship opportunities.
-<!-- - 📚 **[Learning](#learning):** Expanding skills and diving into new technologies.
-- 📝 **[Markdown Enthusiast](#markdown-enthusiast):** Crafting beautiful documents with Markdown. -->
-
-
-
 # About me
 
-I'm Dibyendu Pramanik, a jr.MERN stack developer on a journey to explore the realms of web development. Currently looking for internship to further enhance my skills and contribute to real-world projects.
+I'm Dibyendu Pramanik, a jr.MERN stack developer on a journey to explore the realms of web development. 
+Currently looking for internship to further enhance my skills and contribute to real-world projects.
 
-# Programming Languages I know
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,materialui,firebase,tailwind,react,nodejs,mongodb,c,bootstrap)](https://skillicons.dev)
-
+# Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,materialui,firebase,tailwind,react,nodejs,mongodb,bootstrap)](https://skillicons.dev)
 
 
 
@@ -67,4 +57,3 @@ I'm open to collaborating on projects that involve MERN stack development or any
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-
